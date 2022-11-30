@@ -10,3 +10,9 @@ Um sistema de simulação de compras em um coffeeShop
 ![image](https://user-images.githubusercontent.com/42443254/204823028-c5e702a0-5a2d-4435-9b12-b3da7f4c8655.png)
 
 ![image](https://user-images.githubusercontent.com/42443254/204823116-ce1b7778-a045-4e93-adb2-e72680dbf710.png)
+
+![image](https://user-images.githubusercontent.com/42443254/204823407-96169305-f6e0-43a9-9a6d-c83d80d89621.png)
+
+![image](https://user-images.githubusercontent.com/42443254/204823345-a197a177-f972-4d27-9de4-2caba55b8306.png)
+
+![image](https://user-images.githubusercontent.com/42443254/204823528-3549aa9b-8206-43ac-8666-99a21c229dd7.png)
