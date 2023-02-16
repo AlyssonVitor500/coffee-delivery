@@ -1,5 +1,6 @@
 # Coffee Delivery 
-Um sistema de simulação de compras em um coffeeShop
+Um sistema de simulação de compras em um coffeeShop 
+(** para acessar a aplicação diretamente, utilize o link https://coffee-delivery333.netlify.app/ **)
 
 ![image](https://user-images.githubusercontent.com/42443254/204822876-6679e913-aa63-4382-ac07-2f9a66b53843.png)
 
